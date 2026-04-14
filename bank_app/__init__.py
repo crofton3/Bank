@@ -1,0 +1,2 @@
+"""Bank app package."""
+
